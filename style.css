@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.info{
+    padding-top: 32px;
+    padding-bottom: 50px;
+}
+.content{
+    margin-top: 63;
+    margin-bottom: 0;
+}
+.logo{
+    padding-bottom: 724px;
+    padding-top: 24px;
+}
+.top_buttons{
+    margin-top: 37px;
+    margin-bottom: 0px;
+}
+.subtitle{
+    margin-top: 0px;
+    margin-bottom: 8px;
+}
+.text{
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+.logo{
+    margin-bottom: 31px;
+}
